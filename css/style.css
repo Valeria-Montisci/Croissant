@@ -1,0 +1,25 @@
+body {
+  background: -webkit-linear-gradient(bottom right, #f9f6a7, #fffa82);
+  margin: auto;
+}
+h1 {
+  text-align: center;
+  font-size: 70px;
+  color: darkred;
+  text-shadow: grey 2px 2px 1px;
+}
+.description {
+  padding: 30px;
+  font-size: 22px;
+  text-align: center;
+}
+.images {
+  display: flex;
+  justify-content: space-around;
+}
+.navbar {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 22px;
+}
